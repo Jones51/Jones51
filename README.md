@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Marcos Antunes  
+# 👋 Olá, sou João Marcos Antunes  
 
 💻 **Analista de Dados | Backend Developer | RPA | Projetos de Transformação Digital**  
 🚀 Apaixonado por tecnologia, automação e análise de dados para geração de insights estratégicos.  
