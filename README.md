@@ -13,9 +13,9 @@ Sou **Engenheiro da Computação** com mais de **5 anos de experiência** em des
 ## 🛠️ Habilidades Técnicas  
 
 - **Linguagens & Frameworks:** Python (Pandas, NumPy, Selenium, Django, Flask), SQL, VBA, Power Query, DAX
-- **Bancos de Dados:** PostgreSQL, MySQL, Oracle, MongoDB  
-- **Big Data & ETL:** Spark, Databricks, Datalake, N8N, PowerApps  
-- **Visualização de Dados:** Power BI, Tableau, Dash, Plotly  
+- **Bancos de Dados:** PostgreSQL, MySQL, Oracle, MongoDB, BigQuery
+- **Big Data & ETL:** Spark, Databricks, Datalake, N8N, PowerApps, Kestra
+- **Visualização de Dados:** Power BI, Looker, Tableau, Dash, Plotly 
 - **Cloud & Arquitetura:** AWS, Azure (AZ-900), mensageria, sistemas escaláveis  
 - **Ferramentas & Versionamento:** Git, GitHub, GitLab, JIRA, BPMN  
 - **Idiomas:** Inglês Avançado  
